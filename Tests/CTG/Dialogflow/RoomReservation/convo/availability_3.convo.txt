@@ -1,0 +1,6 @@
+#me
+is there any room free tomorrow?
+
+#bot
+You can find all the information about the availability of the hotel and much more in the webpage.
+

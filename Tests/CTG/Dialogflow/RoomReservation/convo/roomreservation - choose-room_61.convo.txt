@@ -1,0 +1,16 @@
+#me
+book a meeting room in a hotel for 5 hours for 36 attendees on Monday at 12:00 in Los Angeles
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-06T12:00:00-05:00
+Duration: 5 h
+Location:  Los Angeles       
+Room: C
+

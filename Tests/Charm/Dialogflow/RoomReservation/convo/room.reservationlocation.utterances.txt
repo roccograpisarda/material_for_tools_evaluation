@@ -1,0 +1,2 @@
+room.reservationlocation
+I can help with that. Where would you like to reserve a room?

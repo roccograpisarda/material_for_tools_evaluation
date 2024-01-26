@@ -1,0 +1,14 @@
+weather_0
+
+#me
+weather_0_input
+
+#bot
+weathergeo-city
+INTENT weather
+
+#me
+!REQUIRED_PARAMETER
+
+#bot
+INTENT weather

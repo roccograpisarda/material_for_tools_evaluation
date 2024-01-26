@@ -1,0 +1,2 @@
+room.reservationduration
+How long will it last?

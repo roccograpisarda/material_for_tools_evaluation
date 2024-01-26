@@ -1,0 +1,7 @@
+Convert Fahrenheit and Celsius
+
+#me
+Convert Fahrenheit and Celsius
+
+#bot
+INTENT Convert Fahrenheit and Celsius

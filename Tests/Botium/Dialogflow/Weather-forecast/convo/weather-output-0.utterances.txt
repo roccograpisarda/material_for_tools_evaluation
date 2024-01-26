@@ -1,0 +1,4 @@
+weather - output 0
+Sorry I don't know the weather
+I'm not sure about the weather on $date
+I don't know the weather for $date in $geo-city but I hope it's good!

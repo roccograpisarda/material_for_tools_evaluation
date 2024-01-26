@@ -1,0 +1,22 @@
+#me
+conference room for 3 hour meeting in a hotel in Moscow
+
+#bot
+What date?
+
+#me
+20 8
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2024-08-20T12:00:00-04:00
+Duration: 3 h
+Location:  Moscow       
+Room: C
+

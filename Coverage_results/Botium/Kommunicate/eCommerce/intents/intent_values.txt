@@ -1,0 +1,372 @@
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Collections
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: All Products
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Cancel Order
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: Exchange Item
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: General question
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Order Status
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Earphones - List
+Intent Name: Fashion
+Intent Name: One Product
+Intent Name: One Product

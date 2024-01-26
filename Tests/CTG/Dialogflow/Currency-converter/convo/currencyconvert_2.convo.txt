@@ -1,0 +1,6 @@
+#me
+how many US Dollars will 300 Euro get me
+
+#bot
+At the moment 300EUR are 318.6USD
+

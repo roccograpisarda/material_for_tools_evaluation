@@ -1,0 +1,12 @@
+#me
+what is the weather
+
+#bot
+For what city would you like the weather?
+
+#me
+London
+
+#bot
+Current conditions in London, England (GB), are broken clouds with a temperature of 13.39°C.
+

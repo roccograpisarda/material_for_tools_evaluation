@@ -1,0 +1,6 @@
+#me
+I need a room for a 3 day long meeting for 85 attendees on September 3 starting at 6 pm
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

@@ -1,0 +1,6 @@
+#me
+convert 3 dinars in dollars
+
+#bot
+An error occurred while fetching currency value
+

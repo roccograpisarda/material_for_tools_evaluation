@@ -1,0 +1,6 @@
+#me
+USD into JPY
+
+#bot
+Invalid currency conversion parameters
+

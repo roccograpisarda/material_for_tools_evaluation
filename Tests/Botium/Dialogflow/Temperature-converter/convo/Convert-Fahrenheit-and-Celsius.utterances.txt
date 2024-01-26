@@ -1,0 +1,8 @@
+Convert Fahrenheit and Celsius
+27°
+30 degrees
+25
+How about 45 degrees?
+27° Celsius
+-40° Fahrenheit
+45 degrees Celsius

@@ -1,0 +1,9 @@
+{
+  "id": "b23c70a2-ec3b-4142-a6fa-55233c1659d5",
+  "name": "news-type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

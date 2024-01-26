@@ -1,0 +1,12 @@
+#me
+I would like to set an appointment for 3pm on Tuesday
+
+#bot
+What services are you looking to get? DMV offers Driver license and vehicle registration services.
+
+#me
+Vehicle registration
+
+#bot
+Let me see if we can fit you in on 2023-11-07 at 15:00:00! Yes It is fine!.
+

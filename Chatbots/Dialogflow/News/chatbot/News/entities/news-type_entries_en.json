@@ -1,0 +1,35 @@
+[
+  {
+    "value": "business",
+    "synonyms": [
+      "business"
+    ]
+  },
+  {
+    "value": "entertainment",
+    "synonyms": [
+      "entertainment"
+    ]
+  },
+  {
+    "value": "general",
+    "synonyms": [
+      "breaking",
+      "latest",
+      "political"
+    ]
+  },
+  {
+    "value": "sports",
+    "synonyms": [
+      "sport",
+      "sports"
+    ]
+  },
+  {
+    "value": "technology",
+    "synonyms": [
+      "technology"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+Schedule Appointment_2
+
+#me
+Schedule Appointment_2_input
+
+#bot
+Schedule Appointment AppointmentType
+INTENT Schedule Appointment
+
+#me
+
+
+#bot
+INTENT Schedule Appointment

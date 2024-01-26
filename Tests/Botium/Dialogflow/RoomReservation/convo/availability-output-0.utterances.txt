@@ -1,0 +1,2 @@
+availability - output 0
+You can find all the information about the availability of the hotel and much more in the webpage.

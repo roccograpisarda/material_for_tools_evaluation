@@ -1,0 +1,28 @@
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: availability
+Intent Name: availability
+Intent Name: availability
+Intent Name: availability
+Intent Name: availability
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation
+Intent Name: room.reservation

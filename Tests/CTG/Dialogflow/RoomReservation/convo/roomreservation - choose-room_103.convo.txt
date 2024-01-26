@@ -1,0 +1,6 @@
+#me
+book a room for 300 guests for today
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

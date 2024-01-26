@@ -1,0 +1,6 @@
+choose room - output 0
+Ok, here are the meeting details.
+Date: $date
+Duration: $duration
+Location: $location
+Room: $room

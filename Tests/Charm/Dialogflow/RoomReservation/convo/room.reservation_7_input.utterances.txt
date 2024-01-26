@@ -1,0 +1,3 @@
+room.reservation_7_input
+new booking of a room for an 8 hour long meeting with 90 guests on next Tuesday at 8 in Paris
+I have a two hour meeting tomorrow in Paris need a room for it

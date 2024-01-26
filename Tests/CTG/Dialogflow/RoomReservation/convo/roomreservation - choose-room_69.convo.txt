@@ -1,0 +1,16 @@
+#me
+book a room for 5 people for about 2 hours on Friday 10 am in New York
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-03T12:00:00-04:00
+Duration: 2 h
+Location:  New York       
+Room: C
+

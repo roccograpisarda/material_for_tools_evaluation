@@ -1,0 +1,32 @@
+#me
+book a conference room for a 9 hour meeting at Main Street
+
+#bot
+What date?
+
+#me
+11 11
+
+#bot
+Choose a room please.
+
+#me
+B
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-11T12:00:00-05:00
+Duration: 9 h
+Location:     Main Street    
+Room: B
+
+#me
+A
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-11T12:00:00-05:00
+Duration: 9 h
+Location:     Main Street    
+Room: A
+

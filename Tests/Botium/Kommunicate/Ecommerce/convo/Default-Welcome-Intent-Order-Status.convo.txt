@@ -1,0 +1,13 @@
+Default Welcome Intent - Order Status
+
+#me
+Default Welcome Intent
+
+#bot
+INTENT Default Welcome Intent
+
+#me
+Order Status
+
+#bot
+INTENT Order Status

@@ -1,0 +1,17 @@
+Intent Name: DefaultFallbackintent
+Intent Name: DefaultFallbackintent
+Intent Name: DefaultFallbackintent
+Intent Name: DefaultFallbackintent
+Intent Name: DefaultFallbackintent
+Intent Name: DefaultFallbackintent
+Intent Name: DefaultFallbackintent
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert
+Intent Name: currency.convert

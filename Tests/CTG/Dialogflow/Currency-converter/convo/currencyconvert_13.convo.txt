@@ -1,0 +1,6 @@
+#me
+convert 100 Pounds to Dollars
+
+#bot
+At the moment 100GBP are 121.93USD
+

@@ -1,0 +1,8 @@
+currency.convert_0
+
+#me
+currency.convert_0_input
+
+#bot
+currency.convert_output
+INTENT currency.convert

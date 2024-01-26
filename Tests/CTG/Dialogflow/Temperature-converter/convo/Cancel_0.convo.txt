@@ -1,0 +1,6 @@
+#me
+Exit
+
+#bot
+Goodbye!
+

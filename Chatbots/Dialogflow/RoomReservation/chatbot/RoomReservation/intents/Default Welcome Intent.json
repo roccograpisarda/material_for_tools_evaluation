@@ -1,0 +1,58 @@
+{
+  "id": "58401902-76c7-4b6a-bf88-6d6271f585de",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "Let\u0027s start!",
+          "buttons": [
+            {
+              "text": "Reserve a room"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.",
+            "Hello! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.",
+            "Good day! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.",
+            "Greetings! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

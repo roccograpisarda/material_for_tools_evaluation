@@ -1,0 +1,7 @@
+weather.context_0
+
+#me
+weather.context_0_input
+
+#bot
+INTENT weather.context

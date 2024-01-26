@@ -1,0 +1,5 @@
+DefaultWelcomeIntent_0_input
+how is it going
+weather
+hello
+hi

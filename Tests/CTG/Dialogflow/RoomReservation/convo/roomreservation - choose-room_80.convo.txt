@@ -1,0 +1,6 @@
+#me
+can I need a room at 10 am tomorrow in Moscow
+
+#bot
+How long will it last?
+

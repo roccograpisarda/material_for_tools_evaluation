@@ -1,0 +1,80 @@
+{
+  "id": "00e1d66b-599f-4076-a5c8-3a0d5ab4bb90",
+  "name": "currency.convert - context:convert-currency",
+  "auto": true,
+  "contexts": [
+    "convert-currency"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "currency.convert",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff067c70-8cfb-4bb4-9320-556016977f25",
+          "name": "currency-from",
+          "required": true,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e1d8e66e-93fe-4008-a87d-6f81fbf67a3c",
+          "name": "currency-to",
+          "required": true,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2dd8aaf5-8f3e-47dc-9313-4367b09d5713",
+          "name": "amount",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

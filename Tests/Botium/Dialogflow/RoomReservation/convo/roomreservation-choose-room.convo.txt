@@ -1,0 +1,13 @@
+room.reservation - choose room
+
+#me
+room.reservation
+
+#bot
+INTENT room.reservation
+
+#me
+choose room
+
+#bot
+INTENT choose room

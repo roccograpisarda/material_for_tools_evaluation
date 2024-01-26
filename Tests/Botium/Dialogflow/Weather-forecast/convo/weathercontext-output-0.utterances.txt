@@ -1,0 +1,2 @@
+weather.context - output 0
+I don't know the weather in #location.geo-city but I hope it's good!

@@ -1,0 +1,11 @@
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: weather.context
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather

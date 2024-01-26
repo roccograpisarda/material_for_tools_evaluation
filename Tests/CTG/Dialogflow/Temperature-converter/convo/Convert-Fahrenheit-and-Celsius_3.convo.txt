@@ -1,0 +1,12 @@
+#me
+How about 45 degrees?
+
+#bot
+Fahrenheit or Celsius?
+
+#me
+Fahrenheit
+
+#bot
+45° Fahrenheit is 7.222222222222222° Celsius
+

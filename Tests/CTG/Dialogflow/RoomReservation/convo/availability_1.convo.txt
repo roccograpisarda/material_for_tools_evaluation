@@ -1,0 +1,6 @@
+#me
+I want to know if I can stay at any room at 7 this weekend
+
+#bot
+You can find all the information about the availability of the hotel and much more in the webpage.
+

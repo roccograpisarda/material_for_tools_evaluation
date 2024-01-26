@@ -1,0 +1,26 @@
+#me
+I would like you to book a meeting room for 90 people for about 2 hours in San Francisco on July 25
+
+#bot
+Choose a room please.
+
+#me
+B
+
+#bot
+Ok, here are the meeting details.
+Date: 2024-07-25T12:00:00-04:00
+Duration: 2 h
+Location:  San Francisco       
+Room: B
+
+#me
+A
+
+#bot
+Ok, here are the meeting details.
+Date: 2024-07-25T12:00:00-04:00
+Duration: 2 h
+Location:  San Francisco       
+Room: A
+

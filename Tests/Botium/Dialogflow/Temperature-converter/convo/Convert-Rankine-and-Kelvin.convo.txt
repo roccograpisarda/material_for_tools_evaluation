@@ -1,0 +1,7 @@
+Convert Rankine and Kelvin
+
+#me
+Convert Rankine and Kelvin
+
+#bot
+INTENT Convert Rankine and Kelvin

@@ -1,0 +1,93 @@
+{
+  "id": "bcdd08b7-2c9d-4492-9454-c931ee155a0e",
+  "name": "Schedule Appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad781507-c75c-43a5-ae58-f20790247629",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time would you like to come in?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ba8cf3b6-c5ae-4560-a5f0-b2c49ef6f8ef",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What date?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "711cd014-4bb0-4a53-9cae-428ebef7dcda",
+          "name": "AppointmentType",
+          "required": true,
+          "dataType": "@AppointmentType",
+          "value": "$AppointmentType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What services are you looking to get? DMV offers Driver license and vehicle registration services."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You are all set for you $AppointmentType on $date at $time, see you then!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

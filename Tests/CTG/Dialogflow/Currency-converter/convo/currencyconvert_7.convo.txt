@@ -1,0 +1,6 @@
+#me
+convert Jamaican Dollars into Euros
+
+#bot
+Invalid currency conversion parameters
+

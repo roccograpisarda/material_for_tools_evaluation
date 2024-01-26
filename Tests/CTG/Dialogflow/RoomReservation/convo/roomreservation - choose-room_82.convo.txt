@@ -1,0 +1,26 @@
+#me
+I have a 2 hour meeting tomorrow in Paris need a room for it
+
+#bot
+Choose a room please.
+
+#me
+B
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-04T12:00:00-04:00
+Duration: 2 h
+Location:  Paris       
+Room: B
+
+#me
+A
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-04T12:00:00-04:00
+Duration: 2 h
+Location:  Paris       
+Room: A
+

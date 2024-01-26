@@ -1,0 +1,4 @@
+ConvertFahrenheitandCelsius_3_input
+27° Celsius
+-40° Fahrenheit
+45 degrees Celsius

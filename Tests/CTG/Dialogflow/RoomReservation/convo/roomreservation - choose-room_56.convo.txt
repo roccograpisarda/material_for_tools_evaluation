@@ -1,0 +1,6 @@
+#me
+help me too reserve a meeting room for 10 people tomorrow in our New York office
+
+#bot
+How long will it last?
+

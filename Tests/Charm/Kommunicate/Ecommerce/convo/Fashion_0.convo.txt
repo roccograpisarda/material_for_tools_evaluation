@@ -1,0 +1,7 @@
+Fashion_0
+
+#me
+Fashion_0_input
+
+#bot
+INTENT Fashion

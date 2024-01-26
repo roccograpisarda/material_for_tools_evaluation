@@ -1,0 +1,3 @@
+Exchange Item - output 0
+You can setup a return or exchange online. During the setup, we’ll let you know which items are eligible to be returned and if there’s any restocking fee.  
+If you’d like to exchange the item, please place a new order of similar cost within 15 days and the restocking fee will be credited back to you

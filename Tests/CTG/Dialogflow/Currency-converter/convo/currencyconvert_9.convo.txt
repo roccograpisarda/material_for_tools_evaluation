@@ -1,0 +1,6 @@
+#me
+currency conversion from Yens to New Taiwan Dollars
+
+#bot
+Invalid currency conversion parameters
+

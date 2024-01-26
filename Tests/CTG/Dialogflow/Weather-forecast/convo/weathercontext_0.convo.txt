@@ -1,0 +1,6 @@
+#me
+What about tomorrow?
+
+#bot
+I don't understand what you're saying, you can say things like "What's the weather in Paris today?" to get the weather forecast.
+

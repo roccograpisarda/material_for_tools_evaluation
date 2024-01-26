@@ -1,0 +1,3 @@
+Matching Value: Convert Fahrenheit and Celsius
+Matching Value: Default Welcome Intent
+Matching Value: Cancel

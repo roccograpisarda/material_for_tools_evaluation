@@ -1,0 +1,5 @@
+ConvertFahrenheitandCelsius_1_input
+27°
+30 degrees
+25
+How about 45 degrees?

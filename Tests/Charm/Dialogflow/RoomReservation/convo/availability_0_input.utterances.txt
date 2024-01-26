@@ -1,0 +1,6 @@
+availability_0_input
+free rooms?
+I want to know if I can stay at any room at 7 this weekend
+Can you tell me the availability of the hotel please?
+is there any room free tomorrow?
+Do you have rooms for this monday?

@@ -1,0 +1,8 @@
+currency.convert - context:convert-currency
+
+#me
+currency.convert - context:convert-currency
+UPDATE_CUSTOM SET_DIALOGFLOW_CONTEXT|convert-currency|1
+
+#bot
+INTENT currency.convert - context:convert-currency

@@ -1,0 +1,7 @@
+Schedule Appointment_7
+
+#me
+Schedule Appointment_7_input
+
+#bot
+INTENT Schedule Appointment

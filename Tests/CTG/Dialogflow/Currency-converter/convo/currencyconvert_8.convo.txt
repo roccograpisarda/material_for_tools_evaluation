@@ -1,0 +1,6 @@
+#me
+convert $200
+
+#bot
+Invalid currency conversion parameters
+

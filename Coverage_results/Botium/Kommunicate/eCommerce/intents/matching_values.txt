@@ -1,0 +1,9 @@
+Matching Value: General question
+Matching Value: Fashion
+Matching Value: Order Status
+Matching Value: Cancel Order
+Matching Value: Exchange Item
+Matching Value: One Product
+Matching Value: All Collections
+Matching Value: Default Welcome Intent
+Matching Value: All Products

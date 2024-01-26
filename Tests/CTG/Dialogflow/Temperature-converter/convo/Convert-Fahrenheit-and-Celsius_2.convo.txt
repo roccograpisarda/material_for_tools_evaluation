@@ -1,0 +1,12 @@
+#me
+25
+
+#bot
+Fahrenheit or Celsius?
+
+#me
+Celsius
+
+#bot
+25° Celsius is 77° Fahrenheit
+

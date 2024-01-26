@@ -1,0 +1,7 @@
+Cancel
+
+#me
+Cancel
+
+#bot
+INTENT Cancel

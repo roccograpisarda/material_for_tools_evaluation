@@ -1,0 +1,8 @@
+Schedule Appointment
+
+#me
+Schedule Appointment
+
+#bot
+Schedule Appointment - output 0
+INTENT Schedule Appointment

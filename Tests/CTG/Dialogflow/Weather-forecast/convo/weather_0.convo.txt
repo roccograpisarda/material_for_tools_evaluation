@@ -1,0 +1,6 @@
+#me
+weather forecast in San Francisco today
+
+#bot
+Current conditions in San Francisco, California (US), are few clouds with a temperature of 15.32°C.
+

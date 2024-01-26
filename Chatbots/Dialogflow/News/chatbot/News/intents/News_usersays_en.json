@@ -1,0 +1,87 @@
+[
+  {
+    "id": "390ae340-5470-4b6a-ab55-f0a744b1eb90",
+    "data": [
+      {
+        "text": "another news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe94e62-3ebc-4ab7-9fea-e11dd9008002",
+    "data": [
+      {
+        "text": "another",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ac105f1-85c1-4c92-9b6c-403513ff8928",
+    "data": [
+      {
+        "text": "italy",
+        "meta": "@sys.geo-country-code",
+        "alias": "news-country",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@news-type",
+        "alias": "news-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "376f0fdc-76a7-4049-ba0e-5096479c7e74",
+    "data": [
+      {
+        "text": "business",
+        "meta": "@news-type",
+        "alias": "news-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21f32204-8d8c-4084-9081-320a26ff980b",
+    "data": [
+      {
+        "text": "Business",
+        "meta": "@news-type",
+        "alias": "news-type",
+        "userDefined": true
+      },
+      {
+        "text": " news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

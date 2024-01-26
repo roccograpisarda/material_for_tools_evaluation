@@ -1,0 +1,6 @@
+#me
+Can you tell me the availability of the hotel please?
+
+#bot
+You can find all the information about the availability of the hotel and much more in the webpage.
+

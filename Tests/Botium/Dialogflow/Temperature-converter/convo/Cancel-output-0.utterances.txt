@@ -1,0 +1,2 @@
+Cancel - output 0
+Goodbye!

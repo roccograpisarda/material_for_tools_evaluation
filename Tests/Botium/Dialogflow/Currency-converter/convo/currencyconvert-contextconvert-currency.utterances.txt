@@ -1,0 +1,8 @@
+currency.convert - context:convert-currency
+100 Dinars
+into INR
+and 30 Yuan
+now into Euros
+now 240 GBP
+and in Mexican Pesos
+convert it into US Dollars

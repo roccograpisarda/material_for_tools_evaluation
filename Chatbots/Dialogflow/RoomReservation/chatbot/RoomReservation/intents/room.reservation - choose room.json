@@ -1,0 +1,100 @@
+{
+  "id": "3d235a1b-5de9-4e1b-b5d4-6af6986e5544",
+  "parentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "rootParentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "name": "room.reservation - choose room",
+  "auto": true,
+  "contexts": [
+    "roomreservation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "room.choose",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4edd4e6-2c94-4cf3-b7e7-dd3b613c6f25",
+          "required": false,
+          "dataType": "@room",
+          "name": "room",
+          "value": "$room",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b1106e84-9597-4f47-ab53-3ea8634613db",
+          "required": false,
+          "dataType": "",
+          "name": "date",
+          "value": "#roomreservation-followup.date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9f6b7b28-0840-4ec8-87be-207b100476db",
+          "required": false,
+          "dataType": "",
+          "name": "duration",
+          "value": "#roomreservation-followup.duration",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1d8db216-d1b5-4504-84f9-cd019b19c0d4",
+          "required": false,
+          "dataType": "",
+          "name": "location",
+          "value": "#roomreservation-followup.location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Confirm?",
+          "buttons": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, here are the meeting details.\nDate: $date\nDuration: $duration\nLocation: $location\nRoom: $room"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

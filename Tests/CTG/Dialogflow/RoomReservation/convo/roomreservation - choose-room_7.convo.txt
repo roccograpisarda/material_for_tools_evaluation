@@ -1,0 +1,6 @@
+#me
+can you book a room for 20 guests in San Francisco on October 2
+
+#bot
+How long will it last?
+

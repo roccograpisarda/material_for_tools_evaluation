@@ -1,0 +1,13 @@
+Default Welcome Intent - General question
+
+#me
+Default Welcome Intent
+
+#bot
+INTENT Default Welcome Intent
+
+#me
+General question
+
+#bot
+INTENT General question

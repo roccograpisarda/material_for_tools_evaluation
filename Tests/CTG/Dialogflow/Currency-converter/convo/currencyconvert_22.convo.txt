@@ -1,0 +1,6 @@
+#me
+convert 3 Rubles in Dollars
+
+#bot
+At the moment 3RUB are 0.03219USD
+

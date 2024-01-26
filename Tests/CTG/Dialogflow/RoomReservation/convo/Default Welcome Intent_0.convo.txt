@@ -1,0 +1,6 @@
+#me
+start
+
+#bot
+Hi! I'm your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.
+

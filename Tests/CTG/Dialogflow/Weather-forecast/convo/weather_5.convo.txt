@@ -1,0 +1,12 @@
+#me
+What is the weather like
+
+#bot
+For what city would you like the weather?
+
+#me
+Paris
+
+#bot
+Current conditions in Palais-Royal, Ile-de-France (FR), are overcast clouds with a temperature of 9.82°C.
+

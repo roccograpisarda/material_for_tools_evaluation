@@ -1,0 +1,112 @@
+{
+  "id": "3d235a1b-5de9-4e1b-b5d4-6af6986e5544",
+  "parentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "rootParentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "name": "choose room",
+  "auto": true,
+  "contexts": [
+    "roomreservation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "room.choose",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "076df8c2-a254-43d8-a3fe-29242e53cd92",
+          "name": "room",
+          "required": false,
+          "dataType": "@room",
+          "value": "$room",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "79a0ea1b-6361-4799-9bd8-e91d2cea7f02",
+          "name": "date",
+          "required": false,
+          "dataType": "",
+          "value": "#roomreservation-followup.date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8a5d353d-e69e-4a68-91d6-b9fc4669f30d",
+          "name": "duration",
+          "required": false,
+          "dataType": "",
+          "value": "#roomreservation-followup.duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "49c1e4d1-8c0b-47ac-b252-be13f2a31d67",
+          "name": "location",
+          "required": false,
+          "dataType": "",
+          "value": "#roomreservation-followup.location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "Confirm?",
+          "buttons": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok, here are the meeting details.\nDate: $date\nDuration: $duration\nLocation: $location\nRoom: $room"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

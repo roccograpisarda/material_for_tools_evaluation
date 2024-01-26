@@ -1,0 +1,7 @@
+availability_0
+
+#me
+availability_0_input
+
+#bot
+INTENT availability

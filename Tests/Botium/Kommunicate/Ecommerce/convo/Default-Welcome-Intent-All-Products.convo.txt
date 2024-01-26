@@ -1,0 +1,13 @@
+Default Welcome Intent - All Products
+
+#me
+Default Welcome Intent
+
+#bot
+INTENT Default Welcome Intent
+
+#me
+All Products
+
+#bot
+INTENT All Products

@@ -1,0 +1,121 @@
+{
+  "id": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "name": "room.reservation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "room.reservation",
+      "affectedContexts": [
+        {
+          "name": "roomreservation-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "742902a0-5e03-434f-929c-25254a8154e8",
+          "name": "location",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I can help with that. Where would you like to reserve a room?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2d2704bf-7130-44e4-8131-affa776c43bf",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What date?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a2df4ce3-6d27-498a-a413-dd955a0de441",
+          "name": "duration",
+          "required": true,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How long will it last?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "I have these room options for you.",
+          "buttons": [
+            {
+              "text": "A"
+            },
+            {
+              "text": "B"
+            },
+            {
+              "text": "C"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Choose a room please."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,6 @@
+#me
+27° Celsius
+
+#bot
+27° Celsius is 80.6° Fahrenheit
+

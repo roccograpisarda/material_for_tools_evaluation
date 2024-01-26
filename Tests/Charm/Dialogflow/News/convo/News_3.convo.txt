@@ -1,0 +1,7 @@
+News_3
+
+#me
+News_3_input
+
+#bot
+INTENT News

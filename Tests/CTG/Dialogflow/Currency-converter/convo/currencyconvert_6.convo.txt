@@ -1,0 +1,6 @@
+#me
+how much is 30 English Pounds in Ethiopian Birrs
+
+#bot
+At the moment 30GBP are 2012.79ETB
+

@@ -1,0 +1,8 @@
+DefaultFallbackintent_0
+
+#me
+DefaultFallbackintent_0_input
+
+#bot
+DefaultFallbackintent_output
+INTENT DefaultFallbackintent

@@ -1,0 +1,12 @@
+#me
+30 degrees
+
+#bot
+Fahrenheit or Celsius?
+
+#me
+Celsius
+
+#bot
+30° Celsius is 86° Fahrenheit
+

@@ -1,0 +1,12 @@
+#me
+I need you to reserve a room for in our Los Angeles office
+
+#bot
+What date?
+
+#me
+28 5
+
+#bot
+How long will it last?
+

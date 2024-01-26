@@ -1,0 +1,102 @@
+[
+  {
+    "id": "08fecb15-4103-4556-8cbb-9260a17b08cc",
+    "data": [
+      {
+        "text": "weather forecast in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e08f85d4-9f15-47b4-afde-3fcb579d7644",
+    "data": [
+      {
+        "text": "weather for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71791f87-282d-4ed6-97dd-07130f3d6000",
+    "data": [
+      {
+        "text": "what is the weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d435abb-e479-41e2-b3cf-ea1848de1757",
+    "data": [
+      {
+        "text": "weather forecast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab98f2aa-d4d5-40af-b8b7-dd4d2c70ac0c",
+    "data": [
+      {
+        "text": "What\u0027s the weather supposed to be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f756c9f0-2191-4920-9936-0daade94c624",
+    "data": [
+      {
+        "text": "What is the weather like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

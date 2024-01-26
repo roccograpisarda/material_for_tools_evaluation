@@ -1,0 +1,6 @@
+#me
+book a room for 20 guests in London tomorrow
+
+#bot
+How long will it last?
+

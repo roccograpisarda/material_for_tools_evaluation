@@ -1,0 +1,5 @@
+DefaultWelcomeIntent_output
+Hi! I'm your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.
+Hello! I'm your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.
+Good day! I'm your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.
+Greetings! I'm your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.

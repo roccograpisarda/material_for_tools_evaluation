@@ -1,0 +1,6 @@
+#me
+100 Euro into US Dollars
+
+#bot
+At the moment 100EUR are 106.2USD
+

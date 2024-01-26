@@ -1,0 +1,26 @@
+#me
+can you book a room for a 2 hour meeting fro 50 guests in London tomorrow at 10 am
+
+#bot
+Choose a room please.
+
+#me
+B
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-04T12:00:00-04:00
+Duration: 2 h
+Location:  London       
+Room: B
+
+#me
+A
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-04T12:00:00-04:00
+Duration: 2 h
+Location:  London       
+Room: A
+

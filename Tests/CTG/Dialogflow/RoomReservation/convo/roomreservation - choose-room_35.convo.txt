@@ -1,0 +1,6 @@
+#me
+room reservation for 50 people tomorrow at 10 am in Moscow
+
+#bot
+How long will it last?
+

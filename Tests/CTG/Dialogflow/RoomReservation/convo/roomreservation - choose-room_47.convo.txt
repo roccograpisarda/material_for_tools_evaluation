@@ -1,0 +1,16 @@
+#me
+5 hour long conference hall reservation for 50 guests tomorrow in New York
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-04T12:00:00-04:00
+Duration: 5 h
+Location:  New York       
+Room: C
+

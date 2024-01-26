@@ -1,0 +1,19 @@
+Intent Name: Cancel
+Intent Name: Cancel
+Intent Name: Cancel
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Convert Fahrenheit and Celsius
+Intent Name: Default Fallback Intent
+Intent Name: Default Fallback Intent
+Intent Name: Default Fallback Intent
+Intent Name: Default Fallback Intent
+Intent Name: Default Welcome Intent

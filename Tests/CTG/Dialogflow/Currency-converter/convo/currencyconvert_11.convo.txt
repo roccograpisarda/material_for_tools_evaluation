@@ -1,0 +1,6 @@
+#me
+what's the Euro exchange rate
+
+#bot
+Invalid currency conversion parameters
+

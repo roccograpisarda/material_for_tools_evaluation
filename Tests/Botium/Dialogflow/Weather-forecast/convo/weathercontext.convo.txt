@@ -1,0 +1,8 @@
+weather.context
+
+#me
+weather.context
+
+#bot
+weather.context - output 0
+INTENT weather.context

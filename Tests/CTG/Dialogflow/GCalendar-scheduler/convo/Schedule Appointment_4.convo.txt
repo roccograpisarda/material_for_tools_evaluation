@@ -1,0 +1,12 @@
+#me
+Set an appointment on Wednesday at 2pm
+
+#bot
+What services are you looking to get? DMV offers Driver license and vehicle registration services.
+
+#me
+Vehicle registration
+
+#bot
+Let me see if we can fit you in on 2023-11-08 at 14:00:00! Yes It is fine!.
+

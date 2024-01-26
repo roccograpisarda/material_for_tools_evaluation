@@ -1,0 +1,37 @@
+{
+  "values": [
+    {
+    "value": "tomorrow",
+    "synonyms": [
+      "tomorrow"
+    ]
+  },
+    
+{
+    "value": "This friday",
+    "synonyms": [
+      "This friday"
+    ]
+  },
+{
+    "value":  "the 17th of September",
+    "synonyms": [
+       "the 17th of September"
+    ]
+},
+{
+    "value":  "next Monday",
+    "synonyms": [
+       "next Monday"
+    ]
+},
+{
+    "value":  "October 2",
+    "synonyms": [
+       "October 2"
+    ]
+}
+  
+  ]
+}
+

@@ -1,0 +1,13 @@
+Default Welcome Intent - All Collections
+
+#me
+Default Welcome Intent
+
+#bot
+INTENT Default Welcome Intent
+
+#me
+All Collections
+
+#bot
+INTENT All Collections

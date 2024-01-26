@@ -1,0 +1,14 @@
+Convert Fahrenheit and Celsius_1
+
+#me
+ConvertFahrenheitandCelsius_1_input
+
+#bot
+ConvertFahrenheitandCelsiusunit
+INTENT Convert Fahrenheit and Celsius
+
+#me
+
+
+#bot
+INTENT Convert Fahrenheit and Celsius

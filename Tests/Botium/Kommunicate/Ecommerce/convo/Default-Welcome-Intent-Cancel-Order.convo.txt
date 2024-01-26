@@ -1,0 +1,13 @@
+Default Welcome Intent - Cancel Order
+
+#me
+Default Welcome Intent
+
+#bot
+INTENT Default Welcome Intent
+
+#me
+Cancel Order
+
+#bot
+INTENT Cancel Order

@@ -1,0 +1,6 @@
+#me
+help me with booking a conference room on October 7 at 2 pm
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

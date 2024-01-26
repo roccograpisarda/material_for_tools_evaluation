@@ -1,0 +1,7 @@
+Default Welcome Intent
+start
+good day
+greetings
+hello
+hi
+hey

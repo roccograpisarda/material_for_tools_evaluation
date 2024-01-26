@@ -1,0 +1,12 @@
+#me
+vehicle registration appointment for monday
+
+#bot
+What time would you like to come in?
+
+#me
+4:00pm
+
+#bot
+Let me see if we can fit you in on 2023-11-06 at 16:00:00! Yes It is fine!.
+

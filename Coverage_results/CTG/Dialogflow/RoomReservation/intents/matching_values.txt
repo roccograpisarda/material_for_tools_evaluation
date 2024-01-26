@@ -1,0 +1,3 @@
+Matching Value: room.reservation
+Matching Value: availability
+Matching Value: Default Welcome Intent

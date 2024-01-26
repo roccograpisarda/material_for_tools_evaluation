@@ -1,0 +1,6 @@
+DefaultWelcomeIntent_0_input
+Tell me News
+News_bot
+Hi
+News
+Hello

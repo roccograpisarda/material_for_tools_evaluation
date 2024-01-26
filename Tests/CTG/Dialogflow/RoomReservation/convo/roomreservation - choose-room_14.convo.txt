@@ -1,0 +1,16 @@
+#me
+I'd like to reserve a room at Marina Heights Building 2 for an hour long meeting at 2pm today
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-03T12:00:00-04:00
+Duration: 1 h
+Location:    Marina Heights Building     
+Room: C
+

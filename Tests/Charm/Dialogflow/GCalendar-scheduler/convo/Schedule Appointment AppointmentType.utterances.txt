@@ -1,0 +1,2 @@
+Schedule Appointment AppointmentType
+What services are you looking to get? DMV offers Driver license and vehicle registration services.

@@ -1,0 +1,14 @@
+News_1
+
+#me
+News_1_input
+
+#bot
+Newsnews-country
+INTENT News
+
+#me
+!REQUIRED_PARAMETER
+
+#bot
+INTENT News

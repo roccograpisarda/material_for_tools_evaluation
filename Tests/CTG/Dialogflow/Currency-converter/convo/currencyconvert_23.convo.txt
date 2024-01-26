@@ -1,0 +1,6 @@
+#me
+$12.34 into Yen
+
+#bot
+At the moment 12.34USD are 1855.717582JPY
+

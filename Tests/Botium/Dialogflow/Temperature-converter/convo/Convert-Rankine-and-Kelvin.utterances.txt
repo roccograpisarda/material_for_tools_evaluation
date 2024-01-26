@@ -1,0 +1,5 @@
+Convert Rankine and Kelvin
+Kelvin
+Rankine
+K
+R

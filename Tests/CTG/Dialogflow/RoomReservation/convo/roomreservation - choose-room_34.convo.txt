@@ -1,0 +1,6 @@
+#me
+reserve a room for tomorrow in London there will be 10 of us
+
+#bot
+How long will it last?
+

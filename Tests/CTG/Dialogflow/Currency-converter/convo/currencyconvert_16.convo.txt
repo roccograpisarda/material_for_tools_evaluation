@@ -1,0 +1,6 @@
+#me
+can you convert currencies
+
+#bot
+Invalid currency conversion parameters
+

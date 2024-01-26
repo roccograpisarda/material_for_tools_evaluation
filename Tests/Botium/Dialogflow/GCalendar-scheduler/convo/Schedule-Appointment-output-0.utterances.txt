@@ -1,0 +1,2 @@
+Schedule Appointment - output 0
+You are all set for you $AppointmentType on $date at $time, see you then!

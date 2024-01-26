@@ -1,0 +1,6 @@
+#me
+British Pound currency rate
+
+#bot
+Invalid currency conversion parameters
+

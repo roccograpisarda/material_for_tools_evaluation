@@ -1,0 +1,6 @@
+#me
+what's the currency exchange right now
+
+#bot
+Invalid currency conversion parameters
+

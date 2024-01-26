@@ -1,0 +1,10 @@
+Matching Value: All Products
+Matching Value: Default Welcome Intent
+Matching Value: General question
+Matching Value: One Product
+Matching Value: All Collections
+Matching Value: Exchange Item
+Matching Value: Cancel Order
+Matching Value: Order Status
+Matching Value: Fashion
+Matching Value: Earphones - List

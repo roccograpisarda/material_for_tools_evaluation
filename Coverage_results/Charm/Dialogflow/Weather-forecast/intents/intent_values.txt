@@ -1,0 +1,16 @@
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Welcome Intent
+Intent Name: Default Fallback Intent
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather
+Intent Name: weather

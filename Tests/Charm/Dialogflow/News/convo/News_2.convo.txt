@@ -1,0 +1,21 @@
+News_2
+
+#me
+News_2_input
+
+#bot
+Newsnews-type
+INTENT News
+
+#me
+
+
+#bot
+Newsnews-country
+INTENT News
+
+#me
+!REQUIRED_PARAMETER
+
+#bot
+INTENT News

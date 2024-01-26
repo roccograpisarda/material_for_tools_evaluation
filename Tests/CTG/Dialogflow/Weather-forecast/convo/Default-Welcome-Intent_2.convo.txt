@@ -1,0 +1,6 @@
+#me
+hello
+
+#bot
+Welcome to Weather Bot!  You can say things like "What's the weather in Mountain View?" to get the weather forecast.
+

@@ -1,0 +1,63 @@
+{
+  "id": "98199125-8fc6-466f-98b6-7648e14b06e7",
+  "name": "weather.context",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "weathercontext-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dc8ba58a-59e4-4a6a-840e-1f8b7800e603",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "",
+          "value": "#location.geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I don\u0027t know the weather in #location.geo-city but I hope it\u0027s good!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

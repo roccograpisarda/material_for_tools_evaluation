@@ -1,0 +1,6 @@
+#me
+let's book a conference hall for 100 people tomorrow at 9 am in Moscow
+
+#bot
+How long will it last?
+

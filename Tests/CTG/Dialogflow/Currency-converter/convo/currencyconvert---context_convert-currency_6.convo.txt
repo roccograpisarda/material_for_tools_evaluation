@@ -1,0 +1,6 @@
+#me
+convert it into US Dollars
+
+#bot
+Invalid currency conversion parameters
+

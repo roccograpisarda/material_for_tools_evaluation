@@ -1,0 +1,7 @@
+One Product_0
+
+#me
+One Product_0_input
+
+#bot
+INTENT One Product

@@ -1,0 +1,43 @@
+{
+  "values": [
+    {
+    "value": "1 am",
+    "synonyms": [
+      "1 am"
+    ]
+  },
+    
+{
+    "value": "4 o'clock",
+    "synonyms": [
+      "4 o'clock"
+    ]
+  },
+{
+    "value": "9 o'clock",
+    "synonyms": [
+      "9 o'clock"
+    ]
+},
+{
+    "value": "20:00",
+    "synonyms": [
+      "20:00"
+    ]
+},
+{
+    "value": "15:00",
+    "synonyms": [
+      "15:00"
+    ]
+},
+{
+    "value": "17:00",
+    "synonyms": [
+      "17:00"
+    ]
+}
+  
+  ]
+}
+

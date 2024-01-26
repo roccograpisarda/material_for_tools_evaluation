@@ -1,0 +1,11 @@
+Default Welcome Intent_0_input
+hi there
+hello
+hi
+I greet you
+hey
+howdy
+hello hi
+hello again
+long time no see
+lovely day isn't it

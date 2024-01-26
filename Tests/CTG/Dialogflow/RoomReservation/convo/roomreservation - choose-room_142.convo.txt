@@ -1,0 +1,26 @@
+#me
+new booking for an hour long meeting for 20 guests on December 10 in Los Angeles
+
+#bot
+Choose a room please.
+
+#me
+B
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-12-10T12:00:00-05:00
+Duration: 1 h
+Location:  Los Angeles       
+Room: B
+
+#me
+A
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-12-10T12:00:00-05:00
+Duration: 1 h
+Location:  Los Angeles       
+Room: A
+

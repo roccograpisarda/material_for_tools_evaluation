@@ -1,0 +1,6 @@
+#me
+convert 1 000 Indian Rupee into Yens
+
+#bot
+At the moment 1000INR are 1806.8JPY
+

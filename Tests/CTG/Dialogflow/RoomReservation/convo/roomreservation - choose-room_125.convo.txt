@@ -1,0 +1,6 @@
+#me
+I need a large conference hall for about 200 people for tomorrow
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

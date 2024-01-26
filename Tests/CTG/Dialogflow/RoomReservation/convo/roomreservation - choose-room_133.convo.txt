@@ -1,0 +1,12 @@
+#me
+could you please book a room in our Paris office
+
+#bot
+What date?
+
+#me
+10 4
+
+#bot
+How long will it last?
+

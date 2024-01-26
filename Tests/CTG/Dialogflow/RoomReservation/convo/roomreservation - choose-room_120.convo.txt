@@ -1,0 +1,6 @@
+#me
+help me booking a room for 15 guests for 2 days
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

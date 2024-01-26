@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+    "value": "1 hour",
+    "synonyms": [
+      "1 hour"
+    ]
+  },
+    {
+    "value": "two hours",
+    "synonyms": [
+      "two hours"
+    ]
+  },
+   {
+    "value": "2 days",
+    "synonyms": [
+      "2 days"
+    ]
+  }
+    
+  ]
+}
+

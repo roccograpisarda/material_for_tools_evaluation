@@ -1,0 +1,16 @@
+#me
+I need a room for 5 hour long conference for 25 guests in London on September 1
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2024-09-01T12:00:00-04:00
+Duration: 5 h
+Location:  London       
+Room: C
+

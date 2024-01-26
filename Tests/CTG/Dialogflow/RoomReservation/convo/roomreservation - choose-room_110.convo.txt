@@ -1,0 +1,6 @@
+#me
+could you book a room for a conference please
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

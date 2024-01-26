@@ -1,0 +1,6 @@
+#me
+reserve a conference hall for 4 hours on November 20
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

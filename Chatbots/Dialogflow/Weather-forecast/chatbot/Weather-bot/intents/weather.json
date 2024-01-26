@@ -1,0 +1,77 @@
+{
+  "id": "770fb186-edb9-48cb-98c9-3ce877cac73a",
+  "name": "weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ff986864-bfb8-4366-b1e5-8b44a2245cdb",
+          "name": "geo-city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For what city would you like the weather?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bc8a100e-d963-4723-a838-319e82a3e12a",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry I don\u0027t know the weather",
+            "I\u0027m not sure about the weather on $date",
+            "I don\u0027t know the weather for $date in $geo-city but I hope it\u0027s good!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,6 @@
+#me
+I have a meeting tomorrow let's book a conference hall
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

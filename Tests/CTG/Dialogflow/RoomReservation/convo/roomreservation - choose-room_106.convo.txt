@@ -1,0 +1,12 @@
+#me
+I want to book a conference hall for 500 guests in Moscow
+
+#bot
+What date?
+
+#me
+10 9
+
+#bot
+How long will it last?
+

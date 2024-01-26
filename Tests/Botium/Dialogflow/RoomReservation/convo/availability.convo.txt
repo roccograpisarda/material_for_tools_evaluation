@@ -1,0 +1,7 @@
+availability
+
+#me
+availability
+
+#bot
+INTENT availability

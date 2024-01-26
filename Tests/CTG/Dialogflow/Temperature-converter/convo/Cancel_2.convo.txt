@@ -1,0 +1,6 @@
+#me
+Cancel
+
+#bot
+Goodbye!
+

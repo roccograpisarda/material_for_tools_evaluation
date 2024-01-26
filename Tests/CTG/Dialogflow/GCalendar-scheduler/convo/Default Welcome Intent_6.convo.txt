@@ -1,0 +1,6 @@
+#me
+a good day
+
+#bot
+Good day! What can I do for you today?
+

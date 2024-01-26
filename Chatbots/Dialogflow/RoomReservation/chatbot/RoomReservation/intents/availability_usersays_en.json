@@ -1,0 +1,83 @@
+[
+  {
+    "id": "78fbd453-4274-4dd6-97d0-0d2043105fb8",
+    "data": [
+      {
+        "text": "free rooms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3721b37e-c852-4847-9605-b4a67239c037",
+    "data": [
+      {
+        "text": "I want to know if I can stay at any room ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7 this weekend",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1481387-051d-4881-8996-fc2bcd22ec2f",
+    "data": [
+      {
+        "text": "Can you tell me the availability of the hotel please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e593f8b-c31d-409e-bbdc-34d58ef5c4f6",
+    "data": [
+      {
+        "text": "is there any room free tomorrow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6becb0e-9964-4846-b1a6-c53488633314",
+    "data": [
+      {
+        "text": "Do you have rooms for ",
+        "userDefined": false
+      },
+      {
+        "text": "this monday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

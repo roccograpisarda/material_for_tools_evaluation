@@ -1,0 +1,80 @@
+{
+  "id": "a7e72b1d-225b-47ec-95ff-8e7ca3a12138",
+  "name": "Convert Fahrenheit and Celsius",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "convert.common.temperature",
+      "affectedContexts": [
+        {
+          "name": "temperature",
+          "lifespan": 1,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1dba30f3-669e-493b-897c-9dd79c4f1d8f",
+          "name": "temperature",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$temperature",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What temperature would you like to convert?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "28e78182-5a54-45ad-9bc7-856c7d8cb152",
+          "name": "unit",
+          "required": true,
+          "dataType": "@unit",
+          "value": "$unit",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Fahrenheit or Celsius?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Webhook Failed"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

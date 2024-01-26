@@ -1,0 +1,6 @@
+#me
+exchange rate
+
+#bot
+Invalid currency conversion parameters
+

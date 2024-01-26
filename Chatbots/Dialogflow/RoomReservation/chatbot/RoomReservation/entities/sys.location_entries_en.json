@@ -1,0 +1,17 @@
+{
+  "values": [
+    {
+    "value": "Madrid",
+    "synonyms": ["Madrid"]
+  },
+   {
+    "value": "Valencia",
+    "synonyms": ["Valencia"]
+   },
+   {
+    "value": "Barcelona",
+    "synonyms": ["Barcelona"]
+   }
+  ]
+}
+

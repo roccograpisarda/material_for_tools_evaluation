@@ -1,0 +1,4 @@
+choose room
+C
+B
+A

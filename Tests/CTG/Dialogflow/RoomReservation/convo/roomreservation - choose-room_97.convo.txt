@@ -1,0 +1,6 @@
+#me
+can you book a room for 189 of us
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

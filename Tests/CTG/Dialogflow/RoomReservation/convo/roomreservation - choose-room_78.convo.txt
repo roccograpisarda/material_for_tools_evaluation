@@ -1,0 +1,6 @@
+#me
+can I book a room for one hour meeting
+
+#bot
+I can help with that. Where would you like to reserve a room?
+

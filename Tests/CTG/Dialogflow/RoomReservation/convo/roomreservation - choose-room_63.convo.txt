@@ -1,0 +1,16 @@
+#me
+book a hotel room for an hour long meeting for 74 guests tomorrow in Paris
+
+#bot
+Choose a room please.
+
+#me
+C
+
+#bot
+Ok, here are the meeting details.
+Date: 2023-11-04T12:00:00-04:00
+Duration: 1 h
+Location:  Paris       
+Room: C
+

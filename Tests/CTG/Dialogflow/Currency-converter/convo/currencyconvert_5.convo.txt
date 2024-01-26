@@ -1,0 +1,6 @@
+#me
+how much will I get for 1000 Euro
+
+#bot
+Invalid currency conversion parameters
+

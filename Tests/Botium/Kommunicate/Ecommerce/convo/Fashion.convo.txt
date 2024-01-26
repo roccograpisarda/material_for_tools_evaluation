@@ -1,0 +1,7 @@
+Fashion
+
+#me
+Fashion
+
+#bot
+INTENT Fashion

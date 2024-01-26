@@ -1,0 +1,3 @@
+room.reservation_2_input
+new reservation fo tomorrow at 6 pm i Los Angeles
+reserve a room in Paris tomorrow

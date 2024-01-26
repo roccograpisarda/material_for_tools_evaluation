@@ -1,0 +1,12 @@
+#me
+please reserve a room for 5 in London at 5 pm
+
+#bot
+What date?
+
+#me
+16 2
+
+#bot
+How long will it last?
+

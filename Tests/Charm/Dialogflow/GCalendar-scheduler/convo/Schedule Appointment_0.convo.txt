@@ -1,0 +1,14 @@
+Schedule Appointment_0
+
+#me
+Schedule Appointment_0_input
+
+#bot
+ScheduleAppointmenttime
+INTENT Schedule Appointment
+
+#me
+!REQUIRED_PARAMETER
+
+#bot
+INTENT Schedule Appointment

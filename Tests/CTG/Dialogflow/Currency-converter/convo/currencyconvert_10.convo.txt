@@ -1,0 +1,6 @@
+#me
+25 Tenge converted into Dinar
+
+#bot
+An error occurred while fetching currency value
+

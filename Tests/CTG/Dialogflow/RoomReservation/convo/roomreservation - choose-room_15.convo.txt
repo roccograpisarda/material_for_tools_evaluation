@@ -1,0 +1,12 @@
+#me
+reserve a room in Park Center
+
+#bot
+What date?
+
+#me
+11 11
+
+#bot
+How long will it last?
+

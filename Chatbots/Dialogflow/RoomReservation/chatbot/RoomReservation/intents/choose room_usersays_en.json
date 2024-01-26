@@ -1,0 +1,47 @@
+[
+  {
+    "id": "00a7bdf6-88a3-4b31-a320-fac0ec3540f3",
+    "data": [
+      {
+        "text": "C",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2125174-0c20-4853-8d0d-ab4da8b1f079",
+    "data": [
+      {
+        "text": "B",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e0d444b-d599-47be-a4ac-85438ac5598f",
+    "data": [
+      {
+        "text": "A",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

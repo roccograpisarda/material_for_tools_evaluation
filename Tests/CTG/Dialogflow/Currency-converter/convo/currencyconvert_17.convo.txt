@@ -1,0 +1,6 @@
+#me
+what's 100 Levas in Kunas
+
+#bot
+Invalid currency conversion parameters
+

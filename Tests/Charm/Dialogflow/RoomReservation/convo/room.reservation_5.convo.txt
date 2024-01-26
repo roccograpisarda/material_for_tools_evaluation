@@ -1,0 +1,19 @@
+room.reservation_5
+
+#me
+room.reservation_5_input
+
+#bot
+INTENT room.reservation
+
+#me
+!REQUIRED_PARAMETER
+
+#bot
+INTENT room.reservation
+
+#me
+!REQUIRED_PARAMETER
+
+#bot
+INTENT room.reservation

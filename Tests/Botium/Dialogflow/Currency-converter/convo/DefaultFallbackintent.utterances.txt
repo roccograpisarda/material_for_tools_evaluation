@@ -1,0 +1,8 @@
+DefaultFallbackintent
+price of hotel in Paris in us dollars
+convert it into inches
+now into Paris
+the price for Mexican hotel
+convert 100 Fahrenheit to Celsius
+don't convert 100 Pounds to Dollars
+how many inches in a meter

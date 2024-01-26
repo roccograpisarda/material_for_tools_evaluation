@@ -1,0 +1,13 @@
+Default Welcome Intent - Exchange Item
+
+#me
+Default Welcome Intent
+
+#bot
+INTENT Default Welcome Intent
+
+#me
+Exchange Item
+
+#bot
+INTENT Exchange Item

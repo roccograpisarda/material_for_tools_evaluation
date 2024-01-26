@@ -1,0 +1,6 @@
+#me
+what's the exchange rate for Canadian dollars to US dollars
+
+#bot
+Invalid currency conversion parameters
+

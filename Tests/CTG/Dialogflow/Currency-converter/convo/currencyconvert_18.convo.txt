@@ -1,0 +1,6 @@
+#me
+how do currencies perform
+
+#bot
+Invalid currency conversion parameters
+

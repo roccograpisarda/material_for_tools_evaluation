@@ -1,0 +1,7 @@
+room.reservation_7
+
+#me
+room.reservation_7_input
+
+#bot
+INTENT room.reservation

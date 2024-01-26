@@ -1,0 +1,6 @@
+#me
+reserve a conference room for 10 people in Paris tomorrow
+
+#bot
+How long will it last?
+

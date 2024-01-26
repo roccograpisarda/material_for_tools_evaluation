@@ -1,0 +1,84 @@
+{
+  "id": "efb7a724-33bb-42c7-a157-cc19befa0528",
+  "name": "currency.convert",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "currency.convert",
+      "affectedContexts": [
+        {
+          "name": "convert-currency",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "13e2d2be-dfb5-4cb9-9b11-e761caf08a7c",
+          "name": "currency-from",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-from",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e1f77a4e-b950-4496-b1ac-cd0c5447f071",
+          "name": "currency-to",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-to",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8bd65d89-eac6-43c5-bb47-b4f3a39f30bc",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

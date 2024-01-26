@@ -1,0 +1,12 @@
+#me
+reserve a room in our London office
+
+#bot
+What date?
+
+#me
+13 7
+
+#bot
+How long will it last?
+

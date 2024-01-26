@@ -1,0 +1,6 @@
+#me
+reserve a room in Paris tomorrow
+
+#bot
+How long will it last?
+

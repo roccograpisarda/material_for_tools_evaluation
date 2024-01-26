@@ -1,0 +1,7 @@
+DefaultWelcomeIntent_0_input
+start
+good day
+greetings
+hello
+hi
+hey
